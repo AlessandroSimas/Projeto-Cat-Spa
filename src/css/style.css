@@ -1,0 +1,143 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    background: #008080;
+    padding: 20px 0;
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.img-logo{
+    width: 13em;
+}
+
+nav{
+    position: absolute; 
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #DC143C ;
+    text-decoration: underline;
+    font-size: 2em;
+    transition: 0.7s;
+}
+
+.banner{
+    width: 100%;   
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 1em 0 1em;
+    clear: left;
+}
+.principal {
+    background: #FEFEFE;
+    padding: 3em 0;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.principal p {
+    margin: 0 0 1em;
+    padding: 8px ;
+    font-size: 18px;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+.coracao{
+    width: 160px;
+    float: left;
+    margin: 0 20px 20px 0;
+    box-shadow: 5px 0px 5px 0px #DC143C;
+}
+
+.beneficios {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #B0C4DE, #008080);
+}
+.conteudo-beneficios {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens {
+    line-height: 2;
+}
+
+.itens:before {
+    content: "🐈";
+}
+.itens:first-child {
+    font-weight: bold;
+}
+
+.imagem-ambiente {
+    width: 55%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 20px 10px 20px 5px #008080;
+}
+
+.imagem-ambiente:hover {
+    opacity: 0.3;
+}
+
+.video, .video2 {
+    width: 500px;
+    margin: 20px auto;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    border: 8px ridge #20B2AA;
+    border-radius: 10px;
+    
+}
+
+footer{
+    text-align: center;
+    background: #008080;
+    padding: 20px 0;
+}
+
+.logo-branco{
+    width: 8em;
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
