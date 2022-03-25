@@ -6,6 +6,5 @@ Logo;
 Banner;
 "Regra de negócio";
 Estilização;
-Fotos:arquivo pessoal (meus gatos);
-Link instagram dos meus felinos:
-"https://www.instagram.com/gatinhos_gourmet"
+Fotos:arquivo pessoal (meus gatos -
+"https://www.instagram.com/gatinhos_gourmet")
