@@ -1,0 +1,79 @@
+.servicos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    
+}
+
+.servicos li{
+    display: inline-block;
+    text-align: center;
+    background-color: #B0C4DE;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    border:5px solid #008080;
+    border-radius: 10px;
+}
+
+.img-servicos{
+    width: 13em;
+    border: 10px ridge #008080;
+}
+
+.servicos li:hover {
+    border-color: #DC143C;
+}
+
+.servicos li:hover h2{
+    font-size: 35px;
+}
+
+.servicos li:active {
+    border: 5px dotted #DC143C;
+}
+
+.servicos h2{
+    color: #008080;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.servicos-descricao{
+    font-size: 18px;
+}
+
+.servicos-preco{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px
+}
+
+.intens-loja {
+    line-height: 2;
+    margin: 10px 0;
+    text-shadow: 0.1em 0.3em 0.5em #008080;
+}
+
+.intens-loja:before {
+    content: "🐈";
+}
+
+.imagem-loja{
+    width: 55%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 20px 5px 20px 10px #008080;
+}
+
+.imagem-loja:hover {
+    opacity: 0.3;
+}
+
+.catshop {
+    padding: 3em 0;
+}
+
+

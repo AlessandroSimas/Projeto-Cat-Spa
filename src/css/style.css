@@ -79,16 +79,16 @@ nav a:hover {
     box-shadow: 5px 0px 5px 0px #DC143C;
 }
 
-.beneficios {
+.beneficios{
     padding: 3em 0;
     background: linear-gradient(#FEFEFE, #B0C4DE, #008080);
 }
-.conteudo-beneficios {
+.conteudo-beneficios, .conteudo-catshop {
     width: 640px;
     margin: 0 auto;
 }
 
-.lista-beneficios {
+.lista-beneficios, .lista-catshop {
     width: 45%;
     display: inline-block;
     vertical-align: top;
@@ -96,6 +96,7 @@ nav a:hover {
 
 .itens {
     line-height: 2;
+    text-shadow: 0.1em 0.3em 0.5em #008080;
 }
 
 .itens:before {
@@ -105,7 +106,7 @@ nav a:hover {
     font-weight: bold;
 }
 
-.imagem-ambiente {
+.imagem-ambiente{
     width: 55%;
     opacity: 1;
     transition: 400ms;
