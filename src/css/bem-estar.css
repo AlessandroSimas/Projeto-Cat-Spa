@@ -3,9 +3,88 @@
 .titulo {
     text-align: center;
     font-size: 2em;
+    text-shadow: 0.2em 0.2em 0.4em #008080;
+    padding: 30px ;
+    clear: right;
 }
 
 .topico{
-    font-size: 1em;
+    font-size: 22px;
     font-weight: bold;
+    padding: 10px 5px;
+    margin: 20px 40px ;
+    
+}
+
+.info-banho strong {
+    font-weight: bold;
+}
+
+.info-banho p {
+    margin: 20px 40px;
+    font-size: 19px;
+    line-height: 1.6;   
+}
+
+.info-banho img {
+    width: 20%;
+    float: right;
+    margin: 0 20px;
+}
+
+.curiosidades{
+    width: 800px;
+    margin: 20px auto;
+}
+
+.curiosidades li{
+    text-align: center;
+    display:inline-block;
+    background-color: #B0C4DE;
+    width: 22%;
+    padding: 20px 10px;
+    box-sizing:border-box;
+    border:2px solid #008080;
+    border-radius: 10px;
+    vertical-align: end;
+}
+.links img{
+    width: 70%;
+    display: flex;
+    margin: 10px 20px;
+    border: 5px ridge #008080;
+    
+    
+}
+.descricao{
+    font-size: 20px;
+    font-size: bold;
+    margin: 10px 0;
+    line-height: 1.5;
+    text-decoration: none;
+
+}
+
+.links img:hover{
+    cursor: pointer;
+}
+.descricao:hover{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.curiosidades li:hover{
+    background-color: #DC143C;
+    transition: 0.8s;
+}
+
+.video1, .video2{
+    
+    display: inline-block;
+    margin: 60px 50px ;
+    padding: 5px 5px 5px 10px;
+    box-sizing: border-box;
+    border: 8px solid #008080;
+    border-radius: 10px;
 }
