@@ -13,17 +13,22 @@ Obs.: As imagens utilizadas são de arquivo pessoal (meus gatos). </p>
 <em>Apenas na página "Bem-Estar" usei imagens da Web, que são justamente as dos links que serão direcionados.</em>
 
 <h2>O site contém:</h2>
-<p>Cabeçalho e Rodapé padronizado da <strong>empresa fictícia</strong></p>
+<p>Cabeçalho e Rodapé padronizado da <strong>empresa fictícia.</strong></p>
 <p><strong>Responsividade -> </strong>>Arquivo .css separado e c/ link para todas as paginas .html</p>
 
 <h3> Pagina Inicial -></h3> 
-<p> Apresentação da Empresa , dos Benefícios e videos de clientes da Cat Spa (fictício); </p>
+<p> Apresentação da Empresa , dos Benefícios e videos de clientes da Cat Spa (fictício);
+</p>
 <h3>Serviços -> </h3>
-<p>São as 3 opções de serviços - Banho & Tosa, imagem e informações do CatShop (loja);</p>
+<p>São 3 opções de serviços - Banho & Tosa, imagem e informações do CatShop (loja);</p>
+
  <h3>Bem-Estar -></h3>
  <p> Dicas e Curiosidades sobre banho, links p/ mais informações e curiosidades, também 2 videos sobre escovação;</p>
 
  <h3>Contato -> </h3>
- <p>Formulário de preenchimento de dados, TextArea p/ mensagem, Checkbox , Select p/ informar raça e qtade de gatos e tabela do horário de funcionamento.</p>
+ <p>Formulário de preenchimento de dados, TextArea p/ mensagem, Checkbox , Select p/ informar raça e qtade de gatos e tabela do horário de funcionamento.</p><em>Apenas demonstração, não há recebimento dos dados.</em>
 
- <p><em><strong>Fiquei muito feliz com o resultado, de ter absorvido o conteúdo e ansioso para aprofundar em CSS e cursos de JS.</em></strong></p>
+ <h3>________</h3>
+ <p><strong>Fiquei muito feliz com o resultado, de ter retido o conteúdo e ansioso para aprofundar em CSS e concluir os cursos de JS.</strong></p>
+ 
+

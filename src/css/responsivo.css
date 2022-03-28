@@ -13,6 +13,10 @@
         font-size: 13px;
     }
 
+    nav a:hover{
+    font-size: 16px;
+    }
+
     .lista-beneficios, .imagem-ambiente, .lista-catshop , .imagem-loja {
         width: 100%;
         opacity: 1;
