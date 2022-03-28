@@ -24,7 +24,8 @@ Obs.: As imagens utilizadas são de arquivo pessoal (meus gatos). </p>
  <h3>Contato -> </h3>
  <p>Formulário de preenchimento de dados, TextArea p/ mensagem, Checkbox , Select p/ informar raça e qtade de gatos e tabela do horário de funcionamento.</p>
 
- <h2>Responsividade -></h2>
+ <h3>Responsividade -></h3>
  <p>Arquivo .css separado e c/ link para todas as paginas .html.</p>
-
- <p><strong>Fiquei muito feliz com o resultado, de ter absorvido o conteúdo e ansioso para aprofundar em CSS e cursos de JS.</strong></p>
+ 
+ <h2>Considerações:</h2>
+ <p><strong>Fiquei muito feliz com o resultado, de ter absorvido o conteúdo e ansioso para aprofundar em CSS e concluir os cursos de JS.</strong></p>
