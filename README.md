@@ -27,4 +27,4 @@ Obs.: As imagens utilizadas são de arquivo pessoal (meus gatos). </p>
  <h3>Responsividade -></h3>
  <p>Arquivo .css separado e c/ link para todas as paginas .html</p>
 
- <p> <h4><strong>Fiquei muito feliz com o resultado, de ter absorvido o conteúdo e ansioso para aprofundar em CSS e cursos de JS.</strong></h4></p>
+ <h4><strong>Fiquei muito feliz com o resultado, de ter absorvido o conteúdo e ansioso para aprofundar em CSS e cursos de JS.</strong></h4>
