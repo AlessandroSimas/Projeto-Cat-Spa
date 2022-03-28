@@ -63,13 +63,13 @@
 
 .imagem-loja{
     width: 55%;
-    opacity: 1;
+    opacity: 0.4;
     transition: 400ms;
     box-shadow: 20px 5px 20px 10px #008080;
 }
 
 .imagem-loja:hover {
-    opacity: 0.3;
+    opacity: 1;
 }
 
 .catshop {

@@ -1,0 +1,33 @@
+
+@media screen and (max-width: 480px) {
+    .caixa, .principal, .conteudo-beneficios, .conteudo-catshop, .video , .video2, .servicos , .servicos li , .catshop, .catshop li , .links li, .curiosidades{
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav, nav li, nav a {
+        position: static;
+        font-size: 13px;
+    }
+
+    .lista-beneficios, .imagem-ambiente, .lista-catshop , .imagem-loja {
+        width: 100%;
+        opacity: 1;
+    }
+
+    .descricao{
+        text-align: center;
+    }
+    .video-escova-1, .video-escova-2{
+        display: flex;
+        margin: 10px auto 30px auto ;
+
+    }
+        
+    form{
+        margin: 10px , 2em; 
+    }
+}

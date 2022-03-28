@@ -1,7 +1,7 @@
 # Projeto-Cat-Spa
-<h1>Projeto Pessoal HTML&CSS</h1>
+<h2>Projeto Pessoal HTML&CSS</h2>
 
-<p>Após finalizar os 4 módulos de <strong> HTML e CSS </strong> - Curso-Alura e o projeto da Barbearia Alura, visando colocar em prática meu aprendizado: criei um site do zero com a mesma ideia do projeto inical.</P>
+<p>Após finalizar os 4 módulos de <strong> HTML e CSS </strong> - Curso-Alura e o projeto da Barbearia Alura, visando colocar em prática meu aprendizado: criei um site do zero com a mesma ideia do projeto ministrado.</P>
 
 <p>Criei a Logo, Banner, "Regra de negócio", Estilização e padrão para as páginas.
 Obs.: As imagens utilizadas são de arquivo pessoal (meus gatos). </p>
@@ -15,13 +15,16 @@ Obs.: As imagens utilizadas são de arquivo pessoal (meus gatos). </p>
 <h2>O site contém:</h2>
 <p>Cabeçalho e Rodapé padronizado da <strong>empresa fictícia</strong></p>
 <h3> Pagina Inicial -></h3> 
-<p> Apresentação da Empresa , dos Benefícios e videos de clientes da CatSpa (fictício); </p>
+<p> Apresentação da Empresa , dos Benefícios e videos de clientes da Cat Spa (fictício); </p>
 <h3>Serviços -> </h3>
-<p>São as 3 opções de serviços - Banho e Tosa e imagem e infos do CatShop;</p>
- <h3>Bem-Ester -></h3>
+<p>São as 3 opções de serviços - Banho & Tosa, imagem e informações do CatShop (loja);</p>
+ <h3>Bem-Estar -></h3>
  <p> Dicas e Curiosidades sobre banho, links p/ mais informações e curiosidades, também 2 videos sobre escovação;</p>
 
  <h3>Contato -> </h3>
- <p>Formulário de preenchimento de dados, Textarea p/ mensagem, Checkbox , Select p/ informar raça e qtade de gatos e tabela do horário de funcionamento.</p>
+ <p>Formulário de preenchimento de dados, TextArea p/ mensagem, Checkbox , Select p/ informar raça e qtade de gatos e tabela do horário de funcionamento.</p>
 
- <p> <strong>Fiquei muito feliz com o resultado, de ter absorvido o conteúdo e ansioso para aprofundar em CSS e curos de JS.</strong></p>
+ <h3>Responsividade -></h3>
+ <p>Arquivo .css separado e c/ link para todas as paginas .html</p>
+
+ <p> <strong>Fiquei muito feliz com o resultado, de ter absorvido o conteúdo e ansioso para aprofundar em CSS e cursos de JS.</strong></p>
