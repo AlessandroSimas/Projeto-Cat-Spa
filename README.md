@@ -19,8 +19,7 @@
  <p> Dicas e Curiosidades sobre banho, links p/ mais informações e curiosidades, também 2 videos sobre escovação;</p>
 
  <h3>Contato -> </h3>
- <p>Formulário de preenchimento de dados, TextArea p/ mensagem, Checkbox , Select p/ informar raça e qtade de gatos e tabela do horário de funcionamento.</p><em>Apenas demonstração, não há recebimento dos dados.</em>
-
+ <p>Formulário de preenchimento de dados, TextArea p/ mensagem, Checkbox , Select p/ informar raça e qtade de gatos e tabela do horário de funcionamento.
  <h3>________</h3>
  <p><strong>Fiquei muito feliz com o resultado, de ter retido o conteúdo e ansioso para aprofundar em CSS e concluir os cursos de JS.</strong></p>
  
