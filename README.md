@@ -4,14 +4,7 @@
 <p>Após finalizar os 4 módulos de <strong> HTML e CSS </strong> - Curso-Alura e o projeto da Barbearia Alura, visando colocar em prática meu aprendizado: criei um site do zero com a mesma ideia do projeto ministrado.</P>
 
 <p>Criei a Logo, Banner, "Regra de negócio", Estilização e padrão para as páginas.
-Obs.: As imagens utilizadas são de arquivo pessoal (meus gatos). </p>
-
-<div>
- <a href="https://instagram.com/gatinhos_gourmet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
   
-<em>Apenas na página "Bem-Estar" usei imagens da Web, que são justamente as dos links que serão direcionados.</em>
-
 <h2>O site contém:</h2>
 <p>Cabeçalho e Rodapé padronizado da <strong>empresa fictícia.</strong></p>
 <p><strong>Responsividade -> </strong>>Arquivo .css separado e c/ link para todas as paginas .html</p>
