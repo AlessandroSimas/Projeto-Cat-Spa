@@ -6,11 +6,6 @@
 <p>Criei a Logo, Banner, "Regra de negócio", Estilização e padrão para as páginas.
 Obs.: As imagens utilizadas são de arquivo pessoal (meus gatos). </p>
 
-<div>
- <a href="https://instagram.com/gatinhos_gourmet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
-  
-<em>Apenas na página "Bem-Estar" usei imagens da Web, que são justamente as dos links que serão direcionados.</em>
 
 <h2>O site contém:</h2>
 <p>Cabeçalho e Rodapé padronizado da <strong>empresa fictícia.</strong></p>
@@ -26,7 +21,7 @@ Obs.: As imagens utilizadas são de arquivo pessoal (meus gatos). </p>
  <p> Dicas e Curiosidades sobre banho, links p/ mais informações e curiosidades, também 2 videos sobre escovação;</p>
 
  <h3>Contato -> </h3>
- <p>Formulário de preenchimento de dados, TextArea p/ mensagem, Checkbox , Select p/ informar raça e qtade de gatos e tabela do horário de funcionamento.</p><em>Apenas demonstração, não há recebimento dos dados.</em>
+ <p>Formulário de preenchimento de dados, TextArea p/ mensagem, Checkbox , Select p/ informar raça e qtade de gatos e tabela do horário de funcionamento.</p>
 
  <h3>________</h3>
  <p><strong>Fiquei muito feliz com o resultado, de ter retido o conteúdo e ansioso para aprofundar em CSS e concluir os cursos de JS.</strong></p>
