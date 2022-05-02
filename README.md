@@ -12,7 +12,7 @@ Obs.: As imagens utilizadas são de arquivo pessoal (meus gatos). </p>
 <p><strong>Responsividade -> </strong>>Arquivo .css separado e c/ link para todas as paginas .html</p>
 
 <h3> Pagina Inicial -></h3> 
-<p> Apresentação da Empresa , dos Benefícios e videos de clientes da Cat Spa (fictício);
+<p> Apresentação da Empresa , dos Benefícios e videos de clientes da Cat Spa;
 </p>
 <h3>Serviços -> </h3>
 <p>São 3 opções de serviços - Banho & Tosa, imagem e informações do CatShop (loja);</p>
